@@ -80,6 +80,14 @@ Because spreadsheets are boring and weather data deserves a little sass and styl
 
 ---
 
+## ⚙️ How It Works
+
+1. **API Magic** – Weather data is fetched in real-time using a trusted Weather API.
+2. **Data Processing** – Values like AQI, temperature trends, and forecasts are extracted.
+3. **Visualization** – Displayed beautifully using **Power BI Desktop** reports.
+
+---
+
 ## 👨‍🔬 Future Goals
 
 - Add more cities (Yes, Goa. We see you.)
